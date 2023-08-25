@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go and Redis**
 
-- 💬 Ask me about **Software Development, REST API design, Microservices, and Database Management**
+- 💬 Ask me about **Software Development, REST API design, and Database Management**
 
 - 📫 How to reach me **mhmmdmhthr@gmail.com**
 
