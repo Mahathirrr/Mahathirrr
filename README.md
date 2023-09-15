@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahathirrr&label=Profile%20views&color=0e75b6&style=flat" alt="mahathirrr" /> </p>
 
-- 🔭 I’m currently working on **Developing Web Application and MicroServices**
+- 🔭 I’m currently working on **Developing Web Application and Services**
 
 - 🌱 I’m currently learning **Go and Redis**
 
