@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mahathir</h1>
+<h1 align="center">Hi 👋, I'm Mahathir</h1>
 <h3 align="center">A passionate backend with a love for crafting efficient and robust systems that power modern applications.</h3>
 
 <p align="center"> <img src="https://github.com/Mahathirrr/Mahathirrr/assets/111866202/13aa6de6-734a-46bd-bf9c-3282214c2b79" alt="mahathirrr" width="400" height="300" /> </p>
