@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mahathir</h1>
-<h3 align="center">A passionate backend with a love for crafting efficient and robust systems that power modern applications.</h3>
 
 - 🔭 I’m currently working on **Developing Services**
 
