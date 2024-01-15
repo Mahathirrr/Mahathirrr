@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahathir</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=34&pause=1000&color=F7100A&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Mahathir)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Developing Services**
 
