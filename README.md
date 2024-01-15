@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently Developing **Go and Redis**
 
-- 💬 Ask me about **Software Development, REST API design, and Database Management**
-
 - 📫 How to reach me **mhmmdmhthr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
