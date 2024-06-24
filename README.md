@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=34&pause=1000&color=F7100A&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Mahathir)](https://git.io/typing-svg)
-
 <div style="width: 100%;">
     <img src="welcome.svg" style="width: 100%;">
 </div>
 
 - 🔭 I’m currently working on **Developing Services**
 
-- 🌱 I’m currently Developing **Go and Laravel Project*
+- 🌱 I’m currently Developing **Go and Laravel Project**
 
 - 📫 How to reach me **mhmmdmhthr@gmail.com**
 
