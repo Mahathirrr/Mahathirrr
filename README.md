@@ -2,9 +2,6 @@
     <img src="welcome.svg" style="width: 100%;">
 </div>
 
-- 🔭 I’m currently working on **Developing Services**
-
-- 🌱 I’m currently Developing **Go and Laravel Project**
 
 - 📫 How to reach me **mhmmdmhthr@gmail.com**
 
