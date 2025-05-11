@@ -1,8 +1,3 @@
-<div style="width: 100%;">
-    <img src="welcome.svg" style="width: 100%;">
-</div>
-
-
 - 📫 How to reach me **mhmmdmhthr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
